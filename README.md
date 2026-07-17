@@ -26,9 +26,9 @@ The Signal flow of the ADC is shown below
 ![Block Diagram](counter_type_adc_flow.png)
 
 
-# Counter Type ADC Architecture
+# Counter Type ADC Design
 
-The architecture is designed in LTspice shown below
+The Circuit is designed in LTspice shown below
 
 ![Circuit Diagram](Circuit_Diagram.png)
 
